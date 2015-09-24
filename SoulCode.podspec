@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "SoulCode"
   s.version      = "1.0"
-  s.summary      = ""
+  s.summary      = "SoulCode"
 
   s.description  = <<-DESC
                    A longer description of SoulCode in Markdown format.
