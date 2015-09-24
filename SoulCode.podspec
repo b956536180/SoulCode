@@ -49,7 +49,7 @@ Pod::Spec.new do |s|
 
 
   # s.requires_arc = true
-  s.xcconfig          =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/SoulCode/"' }	
+  s.xcconfig          =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/SoulCode/"','OTHER_LDFLAGS' => '-lObjC'}	
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
   s.requires_arc      = true
