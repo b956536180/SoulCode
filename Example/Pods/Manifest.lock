@@ -1,0 +1,19 @@
+PODS:
+  - SoulCode (1.0)
+
+DEPENDENCIES:
+  - SoulCode (from `https://github.com/b956536180/SoulCode.git`)
+
+EXTERNAL SOURCES:
+  SoulCode:
+    :git: https://github.com/b956536180/SoulCode.git
+
+CHECKOUT OPTIONS:
+  SoulCode:
+    :commit: cbd84ca89b73db83bc1ec5c18f7b17d1aeff6ff5
+    :git: https://github.com/b956536180/SoulCode.git
+
+SPEC CHECKSUMS:
+  SoulCode: be9bdee9040d85b5ae2bf409cf0d196c1aa14257
+
+COCOAPODS: 0.36.4

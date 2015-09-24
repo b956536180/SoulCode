@@ -1,0 +1,4 @@
+platform :ios, '8.1.1'
+source 'https://github.com/b956536180/SoulCode.git'  
+source 'https://github.com/CocoaPods/Specs.git' 
+pod 'SoulCode'
