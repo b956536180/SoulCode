@@ -37,6 +37,8 @@
 
 + (void)borderWithView:(UIView *)view cornerRadius:(CGFloat)radius color:(UIColor *)color masksToBounds:(BOOL)masksToBounds;
 
++ (UIImage *)createImageWithColor:(UIColor *)color;
+
 + (UIImage*)animatedGIFNamed:(NSString*)name;
 
 + (UIImage*)animatedGIFWithData:(NSData *)data;
