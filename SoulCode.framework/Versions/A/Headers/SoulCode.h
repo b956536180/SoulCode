@@ -22,7 +22,6 @@ Hi, hello, welcome to use "SoulCode", this is a can help you quickly develop IOS
 #import <SoulCode/SCHistoryTextField.h>
 #import <SoulCode/SCInfoAlert.h>
 #import <SoulCode/SCTextField.h>
-#import <SoulCode/SCSegmentControl.h>
 #import <SoulCode/SCSwitch.h>
 #import <SoulCode/SCPooCodeView.h>
 #import <SoulCode/SCPuffButton.h>
