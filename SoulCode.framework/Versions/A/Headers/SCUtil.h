@@ -73,6 +73,10 @@
 
 + (void)addRightBarButtonWithTitle:(NSString *)title target:(id)target action:(SEL)action toController:(UIViewController *)controller;
 
++ (void)addLeftBarButtonWithImage:(UIImage *)image target:(id)target action:(SEL)action toController:(UIViewController *)controller;
+
++ (void)addRightBarButtonWithImage:(UIImage *)image target:(id)target action:(SEL)action toController:(UIViewController *)controller;
+
 + (void)setNavigationBarTitleColor:(UINavigationController *)navigation withColor:(UIColor *)color;
 
 + (NSArray *)reverseObjectEnumeratorWithArray:(NSArray *)array;

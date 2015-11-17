@@ -26,6 +26,8 @@ Hi, hello, welcome to use "SoulCode", this is a can help you quickly develop IOS
 #import <SoulCode/SCSwitch.h>
 #import <SoulCode/SCPooCodeView.h>
 #import <SoulCode/SCPuffButton.h>
+#import <SoulCode/SCMacro.h>
+
 //#import <SoulCode/SCHttpDown.h>
 //#import <SoulCode/SCBaseRequestModel.h>
 //#import <SoulCode/SCBaseResponseItem.h>
